@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plugin>
+<extension point="smarttools.component">
+<cdml cdmlName="p2pTinyWfMS" componentName="p2pTinyWfMS" containerName="p2pTinyWfMS.P2pTinyWfMSContainer" facadeName="p2pTinyWfMS.P2pTinyWfMSFacade"/>
+</extension>
+</plugin>

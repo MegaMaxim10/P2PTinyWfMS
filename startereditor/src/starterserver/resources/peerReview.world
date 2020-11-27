@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<world>
+	<connectTo id_src="ComponentsManager" type_dest="components-graph" id_dest="components-graph"/>
+	<connectTo id_src="ComponentsManager" type_dest="p2pTinyWfMS" id_dest="EC"/>
+	<connectTo id_src="EC" type_dest="p2pTinyWfMS" id_dest="AE"/>
+	<connectTo id_src="AE" type_dest="p2pTinyWfMS" id_dest="R1"/>
+	<connectTo id_src="AE" type_dest="p2pTinyWfMS" id_dest="R2"/>
+	<connectTo id_src="EC" type_dest="p2pTinyWfMS" id_dest="R1"/>
+	<connectTo id_src="EC" type_dest="p2pTinyWfMS" id_dest="R2"/>
+	<connectTo id_src="R1" type_dest="p2pTinyWfMS" id_dest="R2"/>	
+</world>

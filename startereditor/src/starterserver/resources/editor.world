@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<world>
+	<connectTo id_src="ComponentsManager" type_dest="components-graph" id_dest="components-graph"/>
+	<connectTo id_src="ComponentsManager" type_dest="testTiny" id_dest="A"/>
+	<connectTo id_src="A" type_dest="testTiny" id_dest="B"/>
+	<connectTo id_src="B" type_dest="testTiny" id_dest="C"/>
+</world>

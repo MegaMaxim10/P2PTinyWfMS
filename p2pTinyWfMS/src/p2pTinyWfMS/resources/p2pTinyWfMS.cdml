@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<component name="p2pTinyWfMS" type="p2pTinyWfMS" extends="inria.communicationprotocol" ns="p2pTinyWfMS">
+
+	<containerclass name="P2pTinyWfMSContainer"/>
+	<facadeclass name="P2pTinyWfMSFacade" userclassname="P2pTinyWfMS"/>
+
+	<input name="forwardTo" method="inForwardTo">
+		<attribute name="request" javatype="smartworkflow.dwfms.urifia.fmml.miu.util.p2pworkflow.PeerToPeerWorkflowRequest"/>
+	</input>
+	
+	<input name="returnTo" method="inReturnTo">
+		<attribute name="response" javatype="smartworkflow.dwfms.urifia.fmml.miu.util.p2pworkflow.PeerToPeerWorkflowResponse"/>
+	</input>
+	
+	<output name="forwardTo" method="outForwardTo">
+		<attribute name="request" javatype="smartworkflow.dwfms.urifia.fmml.miu.util.p2pworkflow.PeerToPeerWorkflowRequest"/>
+	</output>
+	
+	<output name="returnTo" method="outReturnTo">
+		<attribute name="response" javatype="smartworkflow.dwfms.urifia.fmml.miu.util.p2pworkflow.PeerToPeerWorkflowResponse"/>
+	</output>
+
+</component>

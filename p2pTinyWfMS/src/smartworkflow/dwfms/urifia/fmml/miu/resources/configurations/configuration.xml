@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <software>
+        <soft-version>2.0</soft-version>
+        <soft-name>TinyCE</soft-name>
+        <soft-copyright>(C) MIU (MIUniverse), LIFA, 2016 !!!</soft-copyright>
+        <soft-devcompany>Maths-Info Universe (MIUniverse)</soft-devcompany>
+        <soft-devname>Zekeng Ndadji Milliam Maxime</soft-devname>
+        <soft-devmail>ndadjimaxime@yahoo.fr</soft-devmail>
+        <soft-devphone>(+237) 674 96 53 70 / 697 32 91 08</soft-devphone>
+        <soft-devwebsite>www.ndadjimaxime.wordpress.com</soft-devwebsite>
+        <soft-devcompanywebsite>www.miuniverse.wordpress.com</soft-devcompanywebsite>
+        <soft-devcompanyfacebook>www.facebook.com/OMIUNIVERSE</soft-devcompanyfacebook>
+        <soft-helponline>mailto://ndadjimaxime@yahoo.fr</soft-helponline>
+    </software>
+    <languages>
+        <lang-installed>
+            <lang>
+                <lang-name>Français</lang-name>
+                <lang-tag>fr_FR</lang-tag>
+            </lang>
+            <lang>
+                <lang-name>English (GB)</lang-name>
+                <lang-tag>en_GB</lang-tag>
+            </lang>
+        </lang-installed>
+        <lang-default>Français~fr_FR</lang-default>
+    </languages>
+    <server>
+        <sv-host>127.0.0.1</sv-host>
+        <sv-url>rmi://127.0.0.1:6102</sv-url>
+    </server>
+    <window>
+        <window-width>1024</window-width>
+        <window-height>700</window-height>
+    </window>
+    <theme>
+        <default-theme>blue</default-theme>
+        <theme-loadingask>Activated</theme-loadingask>
+    </theme>
+    <sound>
+        <sound-activated>Activated</sound-activated>
+    </sound>
+    <user>
+        <user-remember>Activated</user-remember>
+        <user-login>a%trapo.rdçp-emçxjei8ao.neaja</user-login>
+        <user-password>çeç(a-a_pdyleçmx-jgi%t.çnpl_t</user-password>
+    </user>
+    <mode>
+        <developper-mode>Deactivated</developper-mode>
+    </mode>
+    <haskell>
+        <interpreter>ghci</interpreter>
+    </haskell>
+    <workspace>
+        <workspace-directory></workspace-directory>
+        <workspace-loadingask>Activated</workspace-loadingask>
+        <pagin_selection_range>6</pagin_selection_range>
+    </workspace>
+</config>

@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: startereditor
+Bundle-SymbolicName: startereditor;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: starterserver.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: org.osgi.framework;version="1.3.0"
+Require-Bundle: componentsManager;bundle-version="1.6.2",
+ smartWorkflowDWfMS;bundle-version="1.0.0",
+ smartWorkflowGUI;bundle-version="1.0.0",
+ SmartWorkflow-libs;bundle-version="1.0.0",
+ p2pTinyWfMS;bundle-version="1.0.0"
+Export-Package: starterserver,
+ starterserver.resources

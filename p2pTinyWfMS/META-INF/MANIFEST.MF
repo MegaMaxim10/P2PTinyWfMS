@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: p2pTinyWfMS
+Bundle-SymbolicName: p2pTinyWfMS;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: p2pTinyWfMS.Activator
+Bundle-ActivationPolicy: lazy
+Export-Package: p2pTinyWfMS,
+ p2pTinyWfMS.resources
+Bundle-Vendor: LIFA, MIU and INRIA SmartTools
+Import-Package: org.osgi.framework,
+ p2pTinyWfMS
+Require-Bundle: inria.smarttools.lib,
+ inria.smarttools.core,
+ inria.communicationprotocol;bundle-version="0.3.0",
+ SmartWorkflow-libs;bundle-version="1.0.0"
