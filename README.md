@@ -10,7 +10,7 @@ The required tools to be able to conduct the experiment of decentralised process
 
 - This repository's full content
 - Java 8 32 bits: you can download it on [https://www.java.com/fr/download/manual.jsp](https://www.java.com/fr/download/manual.jsp "Download Java 8 32 bits on java.com")
-- A version of [Eclipse](https://www.eclipse.org/ "Eclipse Foundation Website") on which the [Shared-data Overlay Network (SmartTools)](http://www-sop.inria.fr/members/Didier.Parigot/pmwiki/SON/index.php/Main/HomePage "Learn more on SON") development platform is installed. To make it simpler, we have zipped and put online the Eclipse version that we used: [it can be downloaded through this link](https://drive.google.com/file/d/1ronf2lOAtv8m0rKqaXsZ-NljMIdCxKir/view?usp=sharing "Download the eclipse with SON"). It is a 32-bit Eclipse: hence the need to use a 32-bit Java.
+- A version of [Eclipse](https://www.eclipse.org/ "Eclipse Foundation Website") on which the [Shared-data Overlay Network (SmartTools)](http://www-sop.inria.fr/members/Didier.Parigot/pmwiki/SON/index.php/Main/HomePage "Learn more on SON") development platform is installed. To make it simpler, we have zipped and put online the Eclipse version that we used: [it can be downloaded through this link](https://drive.google.com/file/d/1bq2Eii25PfKJ91Wgi3dpJ-GrXjIByWWw/view?usp=sharing "Download the eclipse with SON"). It is a 32-bit Eclipse: hence the need to use a 32-bit Java.
 
 ## Installation ##
 The installation and configuration of the environment is quite simple. Precisely, it is necessary to:
