@@ -15,7 +15,7 @@ The required tools to be able to conduct the experiment of decentralised process
 ## Installation ##
 The installation and configuration of the environment is quite simple. Precisely, it is necessary to:
 
-- Install Java 8 32 bits and configure the *path* environment variable of your system
+- Install the 32-bit Java 8 and configure the *path* environment variable of your system
 - Unzip the provided version of Eclipse into a directory of your choice
 - Start Eclipse and import the supplied projects from this repository in the following order:
 	-	First of all all the projects contained in the archive in the `SON-Artifacts` directory; these are required dependencies for the prototype's operation
@@ -33,7 +33,7 @@ To simulate this process, you just need to open the `ExportClient.product` file 
 Four instances of P2PTinyWfMS will then be launched. **If you are asked to choose a workspace, it is best to indicate that you want to use the default workspace** (the one in which your eclipse.exe is located). You can simulate the peer review process decentralised execution by navigating between instances of P2PTinyWfMS.
 
 # A video to find out more #
-We have prepared a short video in which we simulate the peer-review process as well as another light process on claiming damages from an insurance company. This video can help you to find out more and give you the keys to simulate your own example in this experimental environment. The video can be accessed through this link: [https://www.youtube.com/watch?v=tMwdlfDZSus&pbjreload=101](https://www.youtube.com/watch?v=tMwdlfDZSus&pbjreload=101 "A video to find out more").
+We have prepared a short video in which we simulate the peer-review process as well as another light process on claiming damages from an insurance company. This video can help you to find out more and give you the keys to simulate your own example in this experimental environment. The video can be accessed through this link: [https://youtu.be/uHXnW1MrlWM](https://youtu.be/uHXnW1MrlWM "A video to find out more").
 
 Thank you for your interest and we hope you will enjoy the experience with this embryonic prototype.
 
