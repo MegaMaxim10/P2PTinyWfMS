@@ -1,7 +1,7 @@
 # P2PTinyWfMS #
-This is the repository on which you can find the source code of the WfMS prototype named "P2PTinyWfMS" and introduced in the paper *"A Grammatical Approach for Administrative Workflow Design and their Distributed Execution using Structured and Cooperatively Edited Mobile Artifacts"*.
+This is the repository on which you can find the source code of the WfMS prototype named "P2PTinyWfMS" and introduced in the paper *"A Grammatical Approach for Administrative Workflow Design and their Distributed Execution using Structured and Cooperatively Edited Mobile Artifacts"* (after several unsuccessful attempts in a number of outlets, the paper was finally accepted for publication in SN Computer Science (although it took almost two years of expert appraisal)).
 
-P2PTinyWfMS enables the simulation on a workstation, of the decentralised execution of administrative processes which are specified in a grammar-based language. The decentralised execution model is the one presented in the paper *"A Grammatical Approach for Administrative Workflow Design and their Distributed Execution using Structured and Cooperatively Edited Mobile Artifacts"*.
+P2PTinyWfMS enables the simulation on a workstation, of the decentralised execution of administrative processes which are specified in a grammar-based language. The decentralised execution model is the one presented in the above-mentioned paper.
 
 # Setting up the environment #
 
